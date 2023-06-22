@@ -25,6 +25,6 @@ function procurar() {
         cont.innerHTML = data[0].continents[0]
         pop.innerHTML = data[0].population
         bandeira.src = data[0].flags.svg
-        return Pais
+        return pais
     })
 }
