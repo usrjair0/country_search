@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 # Buscador de Países <div align-itens="left"><img width="100" height="100" src="./assets/png-transparent-countries-flags-icons-country-culture-china.png"><div>
+=======
+ <p>
+    <h1>Buscador de Países</h1>
+ </p>
+<div>
+  <img width="100" height="100" src="./assets/png-transparent-countries-flags-icons-country-culture-china.png" alt="bandeiras" style="float:right;width:200px;">
+<div>
+>>>>>>> 838c2c399085cc5a61a08c5a3b86dde97b30f8f1
 Este é um projeto de um buscador de países que permite pesquisar por um país e obter informações relevantes sobre ele, utilizando uma API de dados de países.
 
 # Funcionalidades
