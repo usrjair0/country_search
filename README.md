@@ -1,4 +1,4 @@
-# Buscador de Países ![Bandeiras paises](https://w7.pngwing.com/pngs/16/882/png-transparent-countries-flags-icons-country-culture-china.png)
+# Buscador de Países 
 Este é um projeto de um buscador de países que permite pesquisar por um país e obter informações relevantes sobre ele, utilizando uma API de dados de países.
 
 # Funcionalidades
