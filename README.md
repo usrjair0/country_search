@@ -4,6 +4,10 @@ Este é um projeto de um buscador de países que permite pesquisar por um país 
 # Funcionalidades
 Pesquisa por país: Digite o nome de um país no campo de pesquisa e obtenha informações sobre ele. (detalhe: o nome do país deve estar em inglês)
 Detalhes do país: Após realizar a pesquisa, você receberá detalhes sobre o país, como bandeira, nome, capital, continente e população.
+## imagem Layout 
+<img src="./assets/procuradorpaises.png" width="800"><br><br>
+## Brasil 
+<img src="./assets/brazil.png" width="800"><br>
 # Tecnologias Utilizadas
 -HTML <br>
 -CSS <br>
