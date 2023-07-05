@@ -1,7 +1,5 @@
 var card = document.getElementById("card");
-if (pais == "") {
-  card.style.display = "none";
-}
+card.style.display = "none";
 function procurar() {
   card.style.display = "block";
   let pais = document.getElementById("pais").value;
