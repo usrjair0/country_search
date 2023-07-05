@@ -5,6 +5,9 @@ function procurar() {
   let pais = document.getElementById("pais").value;
   let finalURL = `https://restcountries.com/v3.1/name/${pais}?fullText=true`;
   fetch(finalURL)
+  //O comando fetch em JavaScript é uma função que permite fazer requisições de rede 
+  //(como solicitações HTTP) para recuperar recursos de um servidor. Ele é usado para
+  // buscar dados de APIs, carregar conteúdo dinamicamente e interagir com serviços web.
     .then(function (response) {
       return response.json();
     })
