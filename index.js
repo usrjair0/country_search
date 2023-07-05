@@ -1,5 +1,4 @@
-let pais = document.getElementById("pais").value;
-let card = document.getElementById("card");
+var card = document.getElementById("card");
 if (pais == "") {
   card.style.display = "none";
 }
